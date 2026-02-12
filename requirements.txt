@@ -9,4 +9,4 @@ streamlit==1.45.1
 torch==2.10.0
 tqdm==4.66.1
 xgboost==3.2.0
-~treamlit==1.28.2
+
