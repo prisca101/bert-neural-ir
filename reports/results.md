@@ -36,7 +36,7 @@ Final performance on the **BEIR NFCorpus test set** :
 ## 💡 What I would try next (if continuing the project)
 
 - Add more features (e.g. query-document term overlap, position signals, title-specific signals)
-- Add query-document **dense similarity** (e.g. ColBERT, SPLADE, GTE-large embeddings)
+- Add query-document **dense similarity** (e.g. ColBERT)
 - Experiment with **negative sampling** strategies inside XGBoost training
 
 ## Summary – one-liner takeaway
