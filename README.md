@@ -33,7 +33,7 @@ Modern two/three-stage retrieval pipeline – end-to-end demo included
 
 Try different ranking methods side-by-side:
 
-→ **[Open Streamlit Demo](https://your-username-your-repo-name.streamlit.app)**  
+→ **[Open Streamlit Demo](https://bert-neural-ir.streamlit.app/)**  
 *(replace with actual deployed link)*
 
 <br>
