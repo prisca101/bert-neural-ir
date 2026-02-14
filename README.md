@@ -4,8 +4,8 @@
 Modern two/three-stage retrieval pipeline – end-to-end demo included
 
 <div align="center">
-  <img src="reports/images/streamlit_dashboard.png" alt="Dashboard" style="width: auto; height: 180px;" />
-  <img src="reports/images/streamlit_results.png" alt="Results" style="width: auto; height: 180px;" />
+  <img src="reports/images/streamlit_dashboard.png" alt="Dashboard" style="width: 45%;" />
+  <img src="reports/images/streamlit_results.png" alt="Results" style="width: 40.5%;" />
 
   [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
