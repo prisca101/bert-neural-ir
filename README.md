@@ -33,8 +33,7 @@ Modern two/three-stage retrieval pipeline – end-to-end demo included
 
 Try different ranking methods side-by-side:
 
-→ **[Open Streamlit Demo](https://bert-neural-ir.streamlit.app/)**  
-*(replace with actual deployed link)*
+→ **[Open Streamlit Demo](https://bert-neural-ir.streamlit.app/)**
 
 <br>
 
@@ -42,7 +41,7 @@ Try different ranking methods side-by-side:
 
 1. **First stage** — BM25 retrieves top-300 candidates (rank_bm25)  
 2. **Second stage** — cross-encoder/ms-marco-MiniLM-L-6-v2 re-ranks candidates  
-3. **Third stage ** — XGBoost Learning-to-Rank using  
+3. **Third stage** — XGBoost Learning-to-Rank using  
    • normalized BM25 score  
    • cross-encoder score  
    • document length, query length
